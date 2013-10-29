@@ -1,0 +1,10 @@
+[
+	{
+		"id": "yo_tools",
+		"caption" : "yoTools",
+		"children" : [
+			{"command": "yo_yiic_workers"},
+			{"command": "filename_to_clipboard"}
+		]
+	}
+]

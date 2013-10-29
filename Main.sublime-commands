@@ -1,0 +1,4 @@
+[
+	{"caption": "yoTools: Yii Workers", "command": "yo_yiic_workers"},
+	{"caption": "toTools: Copy filename to clipboard", "command": "filename_to_clipboard"}
+]

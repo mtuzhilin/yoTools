@@ -1,0 +1,10 @@
+{
+	/**
+	* Yiic executable file
+	*/
+	"yiic": null,
+	/**
+	* Amqp workers list
+	*/
+	"workers_list": null,
+}
